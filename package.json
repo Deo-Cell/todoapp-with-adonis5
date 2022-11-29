@@ -32,5 +32,20 @@
     "reflect-metadata": "^0.1.13",
     "source-map-support": "^0.5.21",
     "sqlite3": "^5.1.2"
-  }
+  },
+  "description": "a todolist made with adonisjs which contains a complete authentication with error messages",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deo-Cell/todoapp-with-adonis5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deo-Cell/todoapp-with-adonis5/issues"
+  },
+  "homepage": "https://github.com/Deo-Cell/todoapp-with-adonis5#readme"
 }
